@@ -1,4 +1,4 @@
-# practica1
+# Activity U6.PA1. Flutter with Firebase
 
 A new Flutter project.
 
